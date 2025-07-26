@@ -14,3 +14,12 @@ Working example of MCP Tool and before_tool_callback
 </span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="https://google.github.io/adk-docs/tools/mcp-tools/#__codelineno-0-2"></a>which<span class="w"> </span>adk
 </span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="https://google.github.io/adk-docs/tools/mcp-tools/#__codelineno-0-3"></a>which<span class="w"> </span>npx
 </span></code></pre></div>
+
+Create .env file with
+
+```
+GOOGLE_GENAI_USE_VERTEXAI=1
+GOOGLE_CLOUD_PROJECT=your project
+GOOGLE_CLOUD_LOCATION=us-central1
+GOOGLE_MAPS_API_KEY=your API key
+```
