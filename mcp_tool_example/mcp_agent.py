@@ -1,4 +1,3 @@
-# ./adk_agent_samples/mcp_agent/agent.py
 import os
 import logging
 from typing import Optional, Dict, Any
